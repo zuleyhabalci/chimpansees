@@ -1,0 +1,160 @@
+   
+
+nav ul{
+    padding-top: 2em;
+    display: flex;
+    text-decoration: none;
+    font-size: 80px;
+    font-size: 1em;
+    color: white;
+    justify-content: space-evenly;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+a{   
+color: #ffffff;
+background-color:#556E38;
+padding: 0.5em;
+border-radius: 0.3em;
+}
+a:hover{ 
+    background-color: #5D4F02;
+}
+article{
+    background-color: #a6b595;
+    border-radius: 3em;
+}
+
+
+
+body{
+    background-color: #FAFAEF;
+    color: #000000;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+h1{
+    color: #556E38;
+    font-size: 4em;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-left: 1em;
+}
+h2{
+
+    font-size: 1em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 600;
+    padding-left: 3em; 
+    width: 40%;
+    color: #556E38;
+    
+    
+}
+p{ 
+    font-family: Arial, Helvetica, sans-serif;
+    width: 60%;
+    font-size: 1em;
+
+    padding-left: 3em;
+
+}
+section{
+    font-size:1em;
+    padding-left: 2em;
+    color: #5D4F02;
+    width: 40%;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 600    
+}
+.babychim{
+    padding-left: 2em;
+    height: 20em;
+}
+    
+.zoog{
+    background: #5D4F02;
+    height: 30px;
+    padding-left: 38%;
+    font-size: 1em;
+    color: white;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+
+.kat{ width: 33%;
+
+}
+.olifant{ width:33%;} 
+
+.leeuw{ width: 33%;}
+
+.infochim{
+    
+ 
+    font-weight: 700;
+    color: #ffffff;
+background-color:#40353D;
+padding: 0.6em;
+text-decoration: none;
+border-radius: 0.7em;
+margin: 1em;
+
+}
+
+
+.homechim{
+    width: 100%;
+}
+video{
+    width: 100%;
+}
+.landkaart{
+    padding-right: 5em
+    ;
+  
+    float: right;
+  
+}
+li{
+    padding-left: 5em;
+}
+.tweechim{
+    width: 33%;
+}
+.groepchim{
+    width: 33%;
+}
+.lachchim{
+    width: 33%;
+}
+
+.baby{ 
+
+width: 40%;
+display:inline-block;}
+
+.soortf{
+    width: 24%;
+    display: inline-block;
+    padding-left: 5em;
+    padding-top: 2em;
+    height: 15em;
+}
+
+.soort{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffeed7;
+    display: inline-block;
+    font-weight: 800;
+    padding-left: 5em;
+    font-size: 1.3em;
+}
+
+.leer{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+.cartoon:hover{
+    transform: scale(2);
+}
+.logop{
+    float: left;
+}
